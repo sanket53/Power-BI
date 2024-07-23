@@ -1,4 +1,4 @@
-# Power-BI
+# Power-BI Desktop
 This repository contains three Power BI project files designed to provide insightful data visualizations and analyses for different datasets. Below is a brief description of each file:
 
 ### EV_DATA.pbix: This file focuses on data related to electric vehicles.
