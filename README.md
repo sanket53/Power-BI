@@ -16,10 +16,10 @@ This Power BI file visualizes and analyzes data related to electric vehicles (EV
 
 # 2. Orders.pbix
 This Power BI file focuses on order data, providing detailed analysis and insights into:
-### Sales Performance: Visualization of total sales, sales by product category and sales trends over time.
+### Orders Performance: Visualization of total Orders, orders by product category and orders trends over time.
 ### Customer Insights: Analysis of customer demographics, purchase behavior and customer segmentation.
 ### Order Details: Detailed data on individual orders, including order dates, quantities and order values.
-### Sales Channels: Performance analysis across different sales applications.
+### Order Channels: Performance analysis across different sales applications.
 
 # 3. SuperMarket.pbix
 In Progress...
