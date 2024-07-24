@@ -22,4 +22,4 @@ This Power BI file focuses on order data, providing detailed analysis and insigh
 ### Sales Channels: Performance analysis across different sales applications.
 
 # 3. SuperMarket.pbix
-
+In Progress...
